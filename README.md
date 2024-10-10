@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 It's QuantumOpticsLkb
+
+This account is the home of Quantum Optics group at LKB (there is also an organisation)
+
 
 <!--
 **quantumopticslkb/quantumopticslkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
