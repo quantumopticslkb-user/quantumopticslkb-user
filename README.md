@@ -1,4 +1,4 @@
-## Hi there 👋 It's QuantumOpticsLkb
+## Hi there 👋 It's QuantumOpticsLkb USER
 
 This account is the home of Quantum Optics group at LKB (there is also an organisation)
 
